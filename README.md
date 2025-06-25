@@ -29,7 +29,7 @@ Hi! I'm a Unity developer with 4+ years of **indie** and **freelance** experienc
 - **Game feel and polish**: responsive controls, smooth animations, and feedback loops
   
 ## 📫 Get in Touch
-- 💌 **Email:** hasan.58125@gmail.com
+- 💌 **Email:** [hasan.58125@gmail.com](mailto:hasan.58125@gmail.com)
 
 ---
 

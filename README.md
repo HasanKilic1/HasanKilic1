@@ -1,6 +1,7 @@
-Hi! I'm a Unity developer with over 4 years of experience as an indie and freelance game creator, focused on crafting immersive gameplay systems and powerful tools that accelerate production. I love bringing ideas to life with clean, scalable architecture and a deep focus on gameplay feel and polish.
+Hi! I'm a Unity developer with 4+ years of indie and freelance experience, passionate about building immersive gameplay systems and production-ready tools.
 
-📚 I'm a lifelong learner passionate about software craftsmanship — regularly diving into technical books on C#, game architecture, and clean code principles. Inspired by industry legends like Uncle Bob (Robert C. Martin), I strive to write maintainable, high-quality code that supports long-term growth and creative freedom.
+📚 I'm a lifelong learner who cares deeply about clean code, architecture, and software craftsmanship. I regularly study technical books on C# and game development — and as a huge fan of Uncle Bob, 
+I strive to write maintainable, scalable code built to last.
 ---
 
 ## 🧪 Featured Projects

@@ -21,11 +21,12 @@ Hi! I'm a Unity developer with 4+ years of **indie** and **freelance** experienc
 ---
 
 ## 🎯 Skills & Expertise
-- AI and enemy behavior systems  
-- Inventory and shop systems  
-- Cloud save and live services (Unity Gaming Services)  
-- Procedural generation and resource management  
-- Tools and editor extensions
+- **Gameplay systems**: AI and enemy behaviors, inventory and shop systems, combat mechanics, procedural generation
+- **Backend & LiveOps**: Cloud save with Unity Gaming Services, player data management, analytics integration  
+- **Tools & Editor Extensions**: Custom inspectors, developer consoles, build automation, editor scripting  
+- **Performance Optimization**: Object pooling, memory management, frame-rate optimization  
+- **UI/UX**: Responsive HUDs, menus, and UI using Unity UI and TextMeshPro
+- **Game feel and polish**: responsive controls, smooth animations, and feedback loops
   
 ## 📫 Get in Touch
 - 💌 **Email:** hasan.58125@gmail.com

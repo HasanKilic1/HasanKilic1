@@ -20,8 +20,14 @@ Hi! I'm a Unity developer with 4+ years of **indie** and **freelance** experienc
 
 ---
 
+## 🎯 Skills & Expertise
+- AI and enemy behavior systems  
+- Inventory and shop systems  
+- Cloud save and live services (Unity Gaming Services)  
+- Procedural generation and resource management  
+- Tools and editor extensions
+  
 ## 📫 Get in Touch
-
 - 💌 **Email:** hasan.58125@gmail.com
 
 ---

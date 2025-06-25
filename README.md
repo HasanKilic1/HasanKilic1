@@ -8,7 +8,7 @@ Hi! I'm a Unity developer focused on creating immersive gameplay systems and pow
 |--------|-------------|
 | [Relic Quest](https://github.com/HasanKilic1/Relic-Quest-Scripts) | Mobile-RPG game with high intensity combat - Epic bosses - Shops - Inventories - Different Champions etc. |
 | [InspectorX](https://github.com/HasanKilic1/InspectorX) | An Odin-like Custom Unity inspector extension toolkit. |
-| [Isleguard Scripts](https://github.com/HasanKilic1/IsleguardScripts) | Modular RTS systems including AI, resource management, and combat. |
+| [Isleguard](https://github.com/HasanKilic1/IsleguardScripts) |Modular RTS systems including AI,Procedural generation with Flood-fill algorithm, resource management, and combat. |
 
 ---
 

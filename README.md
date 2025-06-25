@@ -1,6 +1,7 @@
-#Hi! I'm a Unity developer focused on creating immersive gameplay systems and powerful tools to accelerate game production.
-#📚 Lifelong learner — passionate about clean code, architecture, and technical books (huge fan of Uncle Bob).
+Hi! I'm a Unity developer passionate about building immersive gameplay systems and tools that empower faster, cleaner development.
 
+📚 A lifelong learner and big believer in clean architecture, I spend time studying technical books on C#, software design, and best practices.  
+Inspired by legends like Uncle Bob, I focus on writing code that’s as fun to maintain as it is to create.
 ---
 
 ## 🧪 Featured Projects

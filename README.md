@@ -13,6 +13,9 @@ Hi! I'm a Unity developer with 4+ years of **indie** and **freelance** experienc
 | [Isleguard](https://github.com/HasanKilic1/IsleguardScripts) | Modular RTS systems including procedural level generation (flood-fill), dynamic AI, resource management, and combat logic. |
 | [My blogs](https://dev.to/hasan_kl_6197f0ae57e14) | Blogs about Unity and C# scripting |
 ---
+## 📺 **Watch Gameplay Videos** 
+* [Relic Quest](https://www.youtube.com/watch?v=xj-vZu7udOM)
+* [Isleguard](https://www.youtube.com/watch?v=YoIllYX2YKU)
 
 ## 🔧 Tech & Tools
 

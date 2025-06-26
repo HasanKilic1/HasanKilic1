@@ -10,8 +10,8 @@ Hi! I'm a Unity developer with 4+ years of **indie** and **freelance** experienc
 |--------|-------------|
 | [Relic Quest](https://github.com/HasanKilic1/Relic-Quest-Scripts) | A mobile RPG featuring fast-paced combat, epic boss fights, shops, inventory systems, and multiple playable champions. |
 | [InspectorX](https://github.com/HasanKilic1/InspectorX) | A custom Unity inspector toolkit (inspired by Odin Inspector) designed to boost productivity and debug workflow. |
-| [Isleguard](https://github.com/HasanKilic1/IsleguardScripts) | Modular RTS systems including procedural level generation (flood-fill), dynamic AI, resource management, and combat logic. |`
-| [My Unity & C# blogs] (https://dev.to/hasan_kl_6197f0ae57e14)
+| [Isleguard](https://github.com/HasanKilic1/IsleguardScripts) | Modular RTS systems including procedural level generation (flood-fill), dynamic AI, resource management, and combat logic. |
+| [My blogs](https://dev.to/hasan_kl_6197f0ae57e14) | Blogs about Unity and C# scripting |
 ---
 
 ## 🔧 Tech & Tools

@@ -33,7 +33,3 @@ Hi! I'm a Unity developer with 4+ years of **indie** and **freelance** experienc
   
 ## 📫 Get in Touch
 - 💌 **Email:** [hasan.58125@gmail.com](mailto:hasan.58125@gmail.com)
-
----
-
-> _Let's create something beautiful together._
